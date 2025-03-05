@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/mlOsD0CKYjUAAAAC/code-programming.gif" height="170" width="1000" />
 
-<h2 align="center">Hello, I'm Hemanth, a third-year B.Tech student specializing in Computer Science and Engineering at GIET College. I'm eager to apply my skills as a Trainee in Full-Stack Developer at Techwing . I'm excited to contribute to your team and continue learning and growing in this role.</h2>
+<h2 align="center">Hello, I'm Hemanth, a third-year B.Tech student specializing in Computer Science and Engineering at GIET College. I'm a Trainee in java Full-Stack Developer at Techwing . I'm excited to contribute to your team and continue learning and growing in this role.</h2>
 
 ###
 
