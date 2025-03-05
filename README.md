@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXuqNJ05wymN2WFQMNvJxCqMH5SsGK9xXz6AEvhbOA-cibdS0mIinl89usfPOVZlQSw&usqp=CAU" height="100" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXuqNJ05wymN2WFQMNvJxCqMH5SsGK9xXz6AEvhbOA-cibdS0mIinl89usfPOVZlQSw&usqp=CAU" height="200" />
 
 <h2 align="center">Hello, I'm Hemnath, a third-year B.Tech student specializing in Computer Science and Engineering at GIET College. I'm eager to apply my skills as a Trainee in Full-Stack Developer at Techwing . I'm excited to contribute to your team and continue learning and growing in this role.</h2>
 
